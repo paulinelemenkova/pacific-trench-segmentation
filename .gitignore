@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+
+# generated figure and GMT intermediate files
+*.pdf
+*.png
+axes.gmt
+axes_plain.gmt
+labels.txt
+legend.txt
+light_bathy.cpt
+_gray.cpt
+_legend.txt
+*.aux
+*.log

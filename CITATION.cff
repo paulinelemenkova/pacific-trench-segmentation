@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it and the associated article."
+title: "Along-Strike Segmentation of Pacific Trenches from Axial Bathymetry"
+type: software
+authors:
+  - given-names: Polina
+    family-names: Lemenkova
+    orcid: "https://orcid.org/0000-0002-5759-1089"
+license: MIT
+repository-code: "TODO: GitHub repository URL"
+# doi: TODO — insert the Zenodo archive DOI on release
