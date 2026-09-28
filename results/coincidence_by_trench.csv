@@ -1,0 +1,26 @@
+cls,trench_id,trench,n_boundaries,n_contacts,mean_dist_km,null_uni_km,p_uni,p_cs,hits15,exp15
+fracture_zone,1,Aleutian,65,4,363.3,353.2,0.7423,0.729,0,2.06
+fracture_zone,2,Kuril-Kamchatka,29,3,283.4,263.5,0.7986,0.651,1,1.17
+fracture_zone,3,Japan,11,2,175.7,220.3,0.0695,0.3118,1,0.83
+fracture_zone,8,Ryukyu,20,2,509.8,442.4,0.9791,0.7995,0,1.05
+fracture_zone,19,Middle America,29,3,523.9,408.7,0.9994,0.9085,1,1.15
+fracture_zone,20,Peru-Chile,83,15,330.2,297.8,0.9608,0.8299,6,5.85
+plateau,15,Kermadec,31,1,570.4,592.8,0.2492,0.2832,5,4.63
+plateau,20,Peru-Chile,83,2,1019.6,1123.2,0.0733,0.2497,10,7.79
+seamount_ridge,1,Aleutian,65,2,599.6,623.2,0.1845,0.3392,2,1.02
+seamount_ridge,2,Kuril-Kamchatka,29,2,953.0,990.8,0.2991,0.3799,1,0.77
+seamount_ridge,3,Japan,11,2,160.7,201.0,0.08,0.3247,2,0.83
+seamount_ridge,4,Izu-Bonin,18,1,476.1,426.7,0.9032,0.6744,0,0.47
+seamount_ridge,5,Mariana,32,13,60.6,63.7,0.2889,0.378,5,6.64
+seamount_ridge,6,Yap,14,1,171.1,175.8,0.3436,0.4971,0,0.59
+seamount_ridge,7,Palau,16,10,45.3,47.1,0.3772,0.4267,5,5.71
+seamount_ridge,8,Ryukyu,20,2,190.5,191.6,0.4624,0.4377,0,1.01
+seamount_ridge,9,Manila,12,1,226.7,239.7,0.2619,0.3022,1,0.57
+seamount_ridge,10,Philippine,25,4,156.9,180.8,0.0755,0.3652,2,1.8
+seamount_ridge,12,San Cristobal,19,6,108.8,131.4,0.107,0.2101,3,2.38
+seamount_ridge,13,Vanuatu,24,3,129.8,132.9,0.3609,0.4857,1,1.57
+seamount_ridge,14,Tonga,22,2,185.7,218.7,0.0291,0.1673,1,1.17
+seamount_ridge,15,Kermadec,31,3,194.1,205.1,0.2112,0.3056,3,1.73
+seamount_ridge,17,Puysegur,14,4,109.3,108.3,0.5127,0.5165,2,2.03
+seamount_ridge,19,Middle America,29,1,1303.5,1074.8,0.999,0.9672,0,0.39
+seamount_ridge,20,Peru-Chile,83,4,624.7,662.7,0.1342,0.3154,2,1.58

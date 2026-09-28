@@ -1,0 +1,21 @@
+trench_id,trench,status,reason,axis_length_km,window_start_km,window_end_km,length_km,n_profiles,valid_frac,depth_shallowest_m,depth_deepest_m,n_segments,n_stable
+1,Aleutian,analysed,,3770.0,0.0,3770.0,3770.0,755,0.984,-4135,-7330,66,39
+2,Kuril-Kamchatka,analysed,,2220.0,0.0,2220.0,2220.0,445,0.993,-5850,-9645,30,25
+3,Japan,analysed,,790.0,0.0,790.0,790.0,159,1.0,-6640,-9215,12,9
+4,Izu-Bonin,analysed,,1125.0,0.0,1125.0,1125.0,226,1.0,-3375,-9840,19,16
+5,Mariana,analysed,,1865.0,0.0,1865.0,1865.0,374,0.984,-4650,-10715,33,28
+6,Yap,analysed,,685.0,0.0,685.0,685.0,138,1.0,-5615,-10860,15,12
+7,Palau,analysed,,845.0,0.0,825.0,825.0,166,0.982,-3945,-7220,17,10
+8,Ryukyu,analysed,,1120.0,0.0,1120.0,1120.0,225,0.956,-3720,-7435,21,13
+9,Manila,analysed,,605.0,5.0,605.0,600.0,121,0.793,-2870,-4580,13,9
+10,Philippine,analysed,,1630.0,0.0,1630.0,1630.0,327,0.994,-2365,-10070,26,16
+11,New Britain,analysed,,655.0,0.0,655.0,655.0,132,1.0,-5555,-8940,16,12
+12,San Cristobal,analysed,,1380.0,0.0,1380.0,1380.0,277,0.903,-3595,-9060,20,16
+13,Vanuatu,analysed,,1345.0,0.0,1345.0,1345.0,270,0.87,-3160,-7685,25,17
+14,Tonga,analysed,,1125.0,0.0,1125.0,1125.0,226,0.996,-6785,-10745,23,18
+15,Kermadec,analysed,,1585.0,0.0,1585.0,1585.0,318,0.994,-4850,-10295,32,21
+16,Hikurangi,excluded,trench-floor criterion met on 26% of the axis; window keeps 65%,715.0,,,,,,,,,
+17,Puysegur,analysed,,830.0,30.0,790.0,760.0,153,0.882,-1985,-6280,15,11
+18,Cascadia,excluded,trench-floor criterion met on 22% of the axis; window keeps 16%,1410.0,,,,,,,,,
+19,Middle America,analysed,,2255.0,0.0,2255.0,2255.0,452,0.985,-4185,-6690,30,21
+20,Peru-Chile,analysed,,6340.0,0.0,6340.0,6340.0,1269,0.946,-2900,-7955,84,57

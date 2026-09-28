@@ -1,5 +1,7 @@
 numpy
-pandas
-matplotlib
-pygmt
 ruptures
+shapely
+matplotlib
+basemap
+basemap-data
+pillow
